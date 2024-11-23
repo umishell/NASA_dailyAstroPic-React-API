@@ -1,6 +1,7 @@
 export default function Footer() {
   return (
     <footer>
+      <div className="bgGradient"></div>
       <div>
         <h2>The brutal Martian landscape</h2>
         <h1>Daily NASA APOD</h1>
